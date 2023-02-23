@@ -1,0 +1,128 @@
+body {
+    font-family: 'Trebuchet MS', Helvetica,sans-serif;
+    background: #02022f;
+       
+}
+
+header {    
+    text-align: center;   
+    margin: 40px 15px 0 15px;
+    border-radius: 15px;
+    color: #191fca;
+    background-image: url(../imagens/fundo4.jpg);    
+    background-size: cover;    
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-attachment: fixed;    
+}
+
+nav {
+    border: solid 1px rgb(62, 174, 226); 
+   
+}
+
+section {
+    text-align: center;
+    margin-top:50px;
+    color: #fff; 
+    font-size: 25px;      
+}
+
+article {    
+    text-align: center;
+    color: #fff;
+    margin-top:50px 20px;
+    
+}
+
+.conteudo {
+    margin: 20px 10px;
+   
+    
+}
+
+h4 {
+    color: black;
+    padding-top: 40px;
+} 
+
+ul {
+    list-style-type: none;
+    margin: 5px 15px;
+    padding: 5px;   
+    float: right;
+}
+
+ul li {
+    float: right;
+    color: rgb(40, 69, 234);
+}
+
+ul a {
+    display: block;    
+    padding: 0 15px;
+    line-height:1em;
+    border-left: 1px solid gray;
+    color: white;
+    margin-top:0px;
+}
+
+ul a:hover {
+     
+    color: #b6b8e1;
+}
+
+.fundo {
+    background-image: url(../imagens/fundo.jpg);
+    background-size: cover;
+    position: relative;
+    height: 100%;    
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-attachment: fixed; 
+    color: black;
+    font-size: 25px
+          
+}
+
+.logo {
+    background-position: center;
+    background-size: cover;
+       
+    max-width: 400px;
+    max-height: 450px;
+    
+    
+
+
+}
+
+.imagem1 {
+    margin-top: 20px;    
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 30px; 
+    opacity: 0.8;     
+    padding: 0 1em;        
+}
+
+.imagem2 {
+    margin-top: 20px;
+    max-width: 300px;
+    max-height: 400px;
+    border-radius: 30px;  
+    align-items: center; 
+    padding: 0 1em;  
+    opacity: 0.8;      
+}
+
+img:hover {
+    opacity: 1.0;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    border-top: #b6b8e1 solid 1px;
+}
+

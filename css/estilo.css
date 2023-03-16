@@ -3,7 +3,7 @@ body {
     background: #02022f;
        
 }
-
+ 
 header {    
     text-align: center;   
     margin: 40px 15px 10px 15px;
@@ -37,7 +37,7 @@ article {
 }
 
 .conteudo {
-    margin: 20px 10px;   
+    margin: 20px 30px;   
     
 }
 
@@ -82,7 +82,7 @@ ul a:hover {
     background-attachment: fixed; 
     color: black;
     font-size: 25px
-    mix-blend-mode
+   
           
 }
 

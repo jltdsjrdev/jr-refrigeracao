@@ -18,7 +18,7 @@ header {
 
 nav {
     border: solid 1px rgb(62, 174, 226); 
-    margin: 10px 10px;
+    margin: 5px 5px;
    
 }
 
@@ -92,12 +92,19 @@ ul a:hover {
     max-width: 400px;
     max-height: 450px;
 }
+.galeria {
+    margin-top: 20px; 
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 20%;
+    padding: 0 1em; 
+}
 
 .imagem1 {
     margin-top: 20px;    
     max-width: 300px;
     max-height: 200px;
-    border-radius: 30px; 
+    border-radius: 15%; 
     opacity: 0.8;     
     padding: 0 1em;        
 }

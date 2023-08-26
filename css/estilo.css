@@ -7,7 +7,7 @@ body {
 header {    
     text-align: center;   
     margin: 40px 15px 10px 15px;
-    border-radius: 15px;
+    border-radius: 35px;
     color: #191fca;
     background-image: url(../imagens/fundo4.jpg);    
     background-size: cover;    
@@ -17,28 +17,30 @@ header {
 }
 
 nav {
-    border: solid 1px rgb(62, 174, 226); 
-    margin: 5px 5px;
-   
+    border: solid 2px rgb(62, 174, 226); 
+    margin: 5px 5px;   
 }
 
 section {
     text-align: center;
-    margin-top:50px;
+    margin-top:20px;
     color: #fff; 
-    font-size: 25px;      
+    font-size: 25px;   
+    padding: 15px;   
 }
 
 article {    
     text-align: center;
     color: #fff;
-    margin-top:50px 20px;
-    
+    margin-top:50px 20px;    
 }
 
 .conteudo {
-    margin: 20px 30px;   
-    
+    margin: 20px 30px;     
+}
+
+h3 {
+    margin-top: 30px;
 }
 
 h4 {
@@ -64,12 +66,12 @@ ul a {
     line-height:1em;
     border-left: 1px solid gray;
     color: white;
-    margin-top:0px;
+    margin-top:0px;    
 }
 
 ul a:hover {
      
-    color: #b6b8e1;
+    color: #b6b8e1;    
 }
 
 .fundo {
@@ -81,9 +83,7 @@ ul a:hover {
     background-position: center;
     background-attachment: fixed; 
     color: black;
-    font-size: 25px
-   
-          
+    font-size: 25px          
 }
 
 .logo {
@@ -92,6 +92,7 @@ ul a:hover {
     max-width: 400px;
     max-height: 450px;
 }
+
 .galeria {
     margin-top: 20px; 
     max-width: 300px;
